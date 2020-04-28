@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi all,
+I am a Data Science student.
